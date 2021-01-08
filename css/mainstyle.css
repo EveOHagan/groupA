@@ -157,7 +157,6 @@ h2, h3, p {
     line-height: 25px;
     text-align: center;
     font-size:2vw;
-    /* font-size: 25px; */
     color: black;
     
  }
@@ -200,8 +199,6 @@ h2, h3, p {
     margin: 20px;
     margin-left: 95px;
 }
-
-
 
 .buttonRank {
     display: block;
